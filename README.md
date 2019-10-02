@@ -1,2 +1,2 @@
 # joby-backend
-backend api for joby.
+backend project of https://www.joby.tech.
